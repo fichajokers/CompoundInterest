@@ -29,7 +29,7 @@ prompt.get([
 
 
 /**
- * @author Matías Villar
+ * @author Matías Villar 
  * @date 08-10-2021
  * @description Principal method, call CompoundInterest fx.
  * @param {Number} p 
